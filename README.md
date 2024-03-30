@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution url](https://www.frontendmentor.io/solutions/clock-app-3TcdP2hrgs)
+- Live Site URL: [Vercel link](https://frontend-mentor-clock-app-phi.vercel.app/)
 
 ## My process
 
