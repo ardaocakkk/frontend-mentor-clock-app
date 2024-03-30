@@ -58,7 +58,7 @@ function Nighttime(props) {
                                         <div className="flex items-center">
                                             <img src={MoonIcon} alt="Sun Icon" />
                                             <div className="hidden md:block">
-                                                <h4 className={'ml-2'}>GOOD MORNING, IT’S CURRENTLY</h4>
+                                                <h4 className={'ml-2'}>GOOD EVENING, IT’S CURRENTLY</h4>
                                             </div>
 
                                             {/* Content for mobile devices only */}
@@ -106,7 +106,7 @@ function Nighttime(props) {
                                         <div className="flex items-center">
                                             <img src={MoonIcon} alt="Sun Icon" />
                                             <div className="hidden md:block">
-                                                <h4 className={'ml-2'}>GOOD MORNING, IT’S CURRENTLY</h4>
+                                                <h4 className={'ml-2'}>GOOD EVENING, IT’S CURRENTLY</h4>
                                             </div>
 
                                             {/* Content for mobile devices only */}
